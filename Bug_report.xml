@@ -1,1 +1,8 @@
-
+<info>
+<bug_report>name</bug_report>
+<steps_to_reproduce>steps</steps_to_reproduce>
+<result>result</result>
+<environment>environment</environment>
+<severity>trivial</severity>
+<priority>low</priority>
+</info>
